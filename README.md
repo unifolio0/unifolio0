@@ -1,5 +1,5 @@
 ### Resume
-- [이력서](https://plastic-worm-bda.notion.site/15c3618738658046b283cbf285874383)
+- [이력서](https://unifolio0.notion.site/Oh-Sanghun-1b4c9077da24807b9dedfc31aa39065d?source=copy_link)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gongbu0)](https://solved.ac/gongbu0)
 
